@@ -1,7 +1,7 @@
-nclude "main.h"
+#include "main.h"
 
 /**
- * print_traingle - prints a triangle
+ * print_triangle - prints a triangle
  * @n: size of the triangle
  */
 void print_triangle(int n)
